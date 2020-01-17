@@ -11,7 +11,10 @@ Analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, an
 # All Results and Outputs, Numeric and NON-Numeric data, will be displayed as a comprehensive and complete data models and visualizations. The Data Modeling and Analysis Report will Include the following:
 
 A) Scatter plot that shows how the tumor volume changes over time for each treatment.
+
 B) Scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
+
 C) Scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate).
+
 D) Bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
